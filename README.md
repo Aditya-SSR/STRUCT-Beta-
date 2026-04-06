@@ -1,1 +1,8 @@
-This project is still under Development
+This project is under Development
+
+**Current Stack: 
+Next JS
+GSAP
+Lenis
+TypeScript
+Zustand
