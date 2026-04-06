@@ -1,6 +1,7 @@
-This project is under Development
+**This project is under Development**
 
-**Current Stack: 
+**Current Stack:**
+
 Next JS
 GSAP
 Lenis
